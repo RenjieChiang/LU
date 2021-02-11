@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/10372/Desktop/Linear_system/Gauss_solver.h
+SquareMatrix.h
+C:/Users/10372/Desktop/Linear_system/SquareMatrix.h
+iostream
+C:/Users/10372/Desktop/Linear_system/iostream
+cmath
+C:/Users/10372/Desktop/Linear_system/cmath
+
+C:/Users/10372/Desktop/Linear_system/Matrix.h
+iostream
+C:/Users/10372/Desktop/Linear_system/iostream
+
+C:/Users/10372/Desktop/Linear_system/SquareMatrix.h
+Matrix.h
+C:/Users/10372/Desktop/Linear_system/Matrix.h
+
+C:/Users/10372/Desktop/Linear_system/main.cpp
+iostream
+-
+Gauss_solver.h
+C:/Users/10372/Desktop/Linear_system/Gauss_solver.h
+

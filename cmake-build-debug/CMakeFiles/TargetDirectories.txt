@@ -1,0 +1,3 @@
+C:/Users/10372/Desktop/Linear_system/cmake-build-debug/CMakeFiles/Linear_system.dir
+C:/Users/10372/Desktop/Linear_system/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/10372/Desktop/Linear_system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
